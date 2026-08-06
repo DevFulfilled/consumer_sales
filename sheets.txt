@@ -1,0 +1,136 @@
+SHEETS
+======
+
+KPI Dashboard
+-------------
+
+ID: uyXmT
+Type: sheet
+Rank: -1
+Published: No
+Approved: No
+Publish Time: 
+Created Date: 
+Modified Date: 
+Thumbnail: {
+    "qStaticContentUrl": {
+        "qUrl": "/api/v1/apps/9df981d3-ccc6-4471-ace3-48bb3dad0aa4/media/files/CGS_Dashboard.png"
+    }
+}
+
+--------------------------------------------------------------------------------
+
+Sales & Margin Performance
+--------------------------
+
+ID: bLZwBC
+Type: sheet
+Rank: -0.9375
+Published: No
+Approved: No
+Publish Time: 
+Created Date: 
+Modified Date: 
+Thumbnail: {
+    "qStaticContentUrl": {
+        "qUrl": "/api/v1/apps/9df981d3-ccc6-4471-ace3-48bb3dad0aa4/media/files/CGS_Sales_and_Budget.png"
+    }
+}
+
+--------------------------------------------------------------------------------
+
+Sales Analysis
+--------------
+
+ID: VJyJ
+Type: sheet
+Rank: -0.875
+Published: No
+Approved: No
+Publish Time: 
+Created Date: 
+Modified Date: 
+Thumbnail: {
+    "qStaticContentUrl": {
+        "qUrl": "/api/v1/apps/9df981d3-ccc6-4471-ace3-48bb3dad0aa4/media/files/CGS_Sales_Analysis.png"
+    }
+}
+
+--------------------------------------------------------------------------------
+
+Sales Rep Performance
+---------------------
+
+ID: xjXHDyD
+Type: sheet
+Rank: -0.859375
+Published: No
+Approved: No
+Publish Time: 
+Created Date: 
+Modified Date: 
+Thumbnail: {
+    "qStaticContentUrl": {
+        "qUrl": "/api/v1/apps/9df981d3-ccc6-4471-ace3-48bb3dad0aa4/media/files/CGS_Sales_Rep_Performance.png"
+    }
+}
+
+--------------------------------------------------------------------------------
+
+Budget Analysis
+---------------
+
+ID: AjDCJg
+Type: sheet
+Rank: -0.8515625
+Published: No
+Approved: No
+Publish Time: 
+Created Date: 
+Modified Date: 
+Thumbnail: {
+    "qStaticContentUrl": {
+        "qUrl": "/api/v1/apps/9df981d3-ccc6-4471-ace3-48bb3dad0aa4/media/files/CGS_Budget_Analysis.png"
+    }
+}
+
+--------------------------------------------------------------------------------
+
+Customer Analysis Across Products & Sales Reps
+----------------------------------------------
+
+ID: nAtvah
+Type: sheet
+Rank: 0.75
+Published: No
+Approved: No
+Publish Time: 
+Created Date: 
+Modified Date: 
+Thumbnail: {
+    "qStaticContentUrl": {
+        "qUrl": "/api/v1/apps/9df981d3-ccc6-4471-ace3-48bb3dad0aa4/media/files/CGS_Customer_Analysis.png"
+    }
+}
+
+--------------------------------------------------------------------------------
+
+Sales & Budget
+--------------
+
+ID: df21fc25-128f-43ed-a658-867675af7031
+Type: sheet
+Rank: 2
+Published: No
+Approved: No
+Publish Time: 
+Created Date: 
+Modified Date: 
+Thumbnail: {
+    "qStaticContentUrl": {
+        "qUrl": "/api/v1/apps/9df981d3-ccc6-4471-ace3-48bb3dad0aa4/media/files/CGS_Sales_and_Budget.png"
+    }
+}
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,37 @@
+{
+    "object_id": "aUqaY",
+    "object_type": "listbox",
+    "properties": {
+        "qInfo": {
+            "qId": "aUqaY",
+            "qType": "listbox"
+        },
+        "qListObjectDef": {
+            "qDef": {
+                "autoSort": true,
+                "qActiveField": 0,
+                "qFieldDefs": [],
+                "qFieldLabels": [],
+                "qGrouping": "N",
+                "qNumberPresentations": [],
+                "qSortCriterias": [
+                    {
+                        "qExpression": [],
+                        "qSortByAscii": 1,
+                        "qSortByLoadOrder": 1,
+                        "qSortByNumeric": 1,
+                        "qSortByState": 1
+                    }
+                ]
+            },
+            "qExpressions": [],
+            "qFrequencyMode": "N",
+            "qInitialDataFetch": [],
+            "qLibraryId": "AmMkUJQ",
+            "qShowAlternatives": true
+        },
+        "qMetaDef": [],
+        "title": "City",
+        "visualization": "listbox"
+    }
+}

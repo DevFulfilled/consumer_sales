@@ -1,0 +1,26 @@
+{
+    "object_id": "pWVxu",
+    "object_type": "masterobject",
+    "properties": {
+        "footnote": "",
+        "masterVersion": 0.96,
+        "metadata": [],
+        "qChildListDef": {
+            "qData": {
+                "info": "/qInfo"
+            }
+        },
+        "qInfo": {
+            "qId": "pWVxu",
+            "qType": "masterobject"
+        },
+        "qMetaDef": {
+            "tags": [],
+            "title": "Filter by Sales Rep"
+        },
+        "showTitles": false,
+        "subtitle": "",
+        "title": "",
+        "visualization": "filterpane"
+    }
+}

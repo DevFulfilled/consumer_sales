@@ -1,0 +1,21 @@
+{
+    "object_id": "BrUHXGz",
+    "object_type": "filterpane",
+    "properties": {
+        "footnote": "",
+        "qChildListDef": {
+            "qData": {
+                "info": "/qInfo"
+            }
+        },
+        "qInfo": {
+            "qId": "BrUHXGz",
+            "qType": "filterpane"
+        },
+        "qMetaDef": [],
+        "showTitles": false,
+        "subtitle": "",
+        "title": "",
+        "visualization": "filterpane"
+    }
+}

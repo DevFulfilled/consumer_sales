@@ -1,0 +1,72 @@
+APPLICATION PROPERTIES
+======================
+
+Title: Consumer Sales
+Last Reload Time: 2023-01-23T21:39:19.658Z
+Thumbnail:
+{
+    "qUrl": "/api/v1/apps/9df981d3-ccc6-4471-ace3-48bb3dad0aa4/media/files/consumer.png"
+}
+
+Saved In Product Version: 12.2850.0
+
+Additional Properties
+---------------------
+
+_resourcetype: app
+create:
+[
+    {
+        "canCreate": true,
+        "resource": "sheet"
+    },
+    {
+        "canCreate": true,
+        "resource": "bookmark"
+    },
+    {
+        "canCreate": true,
+        "resource": "snapshot"
+    },
+    {
+        "canCreate": true,
+        "resource": "story"
+    },
+    {
+        "canCreate": true,
+        "resource": "dimension"
+    },
+    {
+        "canCreate": true,
+        "resource": "measure"
+    },
+    {
+        "canCreate": true,
+        "resource": "masterobject"
+    },
+    {
+        "canCreate": true,
+        "resource": "sheetgroup"
+    },
+    {
+        "canCreate": true,
+        "resource": "variable"
+    }
+]
+
+createdDate: 2026-07-03T11:18:31.168Z
+description: See through the eyes of a consumer goods company.  Analyze sales data by sales rep, by region, by product, etc.
+dynamicColor: hsla(74,18%,43%,1)
+encrypted: Yes
+hassectionaccess: No
+id: 9df981d3-ccc6-4471-ace3-48bb3dad0aa4
+modifiedDate: 2026-07-05T11:17:13.499Z
+originAppId: a9d62be8-9ae5-46ff-b79e-074175f5ce0f
+owner: auth0|a08D000000d9u66IAA
+ownerId: 67e51c6122ab2f9b5e701b31
+privileges: read, update, delete, reload, export, change_owner, change_space, export_reduced, source, evaluate, manage, publish_source
+publishTime: 2026-07-05T11:17:13.356Z
+published: No
+qUsage: ANALYTICS
+spaceId: 6a2ea62d58a46856e9700cc6
+

@@ -1,0 +1,22 @@
+{
+    "object_id": "gGEvB",
+    "object_type": "filterpane",
+    "properties": {
+        "footnote": "",
+        "qChildListDef": {
+            "qData": {
+                "info": "/qInfo"
+            }
+        },
+        "qInfo": {
+            "qId": "gGEvB",
+            "qType": "filterpane"
+        },
+        "qMetaDef": [],
+        "showDetails": false,
+        "showTitles": false,
+        "subtitle": "",
+        "title": "",
+        "visualization": "filterpane"
+    }
+}

@@ -3,28 +3,7 @@ APPLICATION PROPERTIES
 
 Title: Consumer Sales
 Last Reload Time: 2023-01-23T21:39:19.658Z
-Thumbnail:
-{
-    "qUrl": "/api/v1/apps/9df981d3-ccc6-4471-ace3-48bb3dad0aa4/media/files/consumer.png"
-}
-
-Saved In Product Version: 12.2850.0
-
-Additional Properties
----------------------
-
-_resourcetype: app
-create:
-[
-    {
-        "canCreate": true,
-        "resource": "sheet"
-    },
-    {
-        "canCreate": true,
-        "resource": "bookmark"
-    },
-    {
+Thumbn
         "canCreate": true,
         "resource": "snapshot"
     },

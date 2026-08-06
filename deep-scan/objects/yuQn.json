@@ -1,0 +1,23 @@
+{
+    "object_id": "yuQn",
+    "object_type": "filterpane",
+    "properties": {
+        "disableNavMenu": false,
+        "footnote": "",
+        "qChildListDef": {
+            "qData": {
+                "info": "/qInfo"
+            }
+        },
+        "qInfo": {
+            "qId": "yuQn",
+            "qType": "filterpane"
+        },
+        "qMetaDef": [],
+        "showDetails": false,
+        "showTitles": false,
+        "subtitle": "",
+        "title": "",
+        "visualization": "filterpane"
+    }
+}

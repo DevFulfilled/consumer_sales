@@ -1,0 +1,45 @@
+{
+    "object_id": "FPzF",
+    "object_type": "listbox",
+    "properties": {
+        "disableNavMenu": false,
+        "footnote": "",
+        "qInfo": {
+            "qId": "FPzF",
+            "qType": "listbox"
+        },
+        "qListObjectDef": {
+            "qDef": {
+                "autoSort": false,
+                "cId": "LKJDmTY",
+                "qActiveField": 0,
+                "qFieldDefs": [
+                    "Channel Name"
+                ],
+                "qFieldLabels": [
+                    "Channel Name"
+                ],
+                "qGrouping": "N",
+                "qNumberPresentations": [],
+                "qSortCriterias": [
+                    {
+                        "qExpression": [],
+                        "qSortByAscii": 1,
+                        "qSortByLoadOrder": 1
+                    }
+                ]
+            },
+            "qExpressions": [],
+            "qFrequencyMode": "N",
+            "qInitialDataFetch": [],
+            "qOtherTotalSpec": [],
+            "qShowAlternatives": true
+        },
+        "qMetaDef": [],
+        "showDetails": false,
+        "showTitles": true,
+        "subtitle": "",
+        "title": "Channel",
+        "visualization": "listbox"
+    }
+}

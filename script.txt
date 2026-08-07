@@ -138,7 +138,7 @@ LOAD
     "Customer Address 2",
     "Customer Address 3",
     "Customer Address 4",
-    "Zip Code",
+    "Zip Code" as "Post Code",
     City,
     County,
     State,

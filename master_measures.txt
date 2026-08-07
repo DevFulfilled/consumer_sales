@@ -257,7 +257,7 @@ ID: pHrfq
 Tags: 
 
 Expression:
-Sum([Sales Margin Amount])/Sum([Sales Amount])
+sum([Sales Margin Amount]) / (Sum([Sales Amount]) + sum([Sales Cost Amount]))
 
 --------------------------------------------------------------------------------
 

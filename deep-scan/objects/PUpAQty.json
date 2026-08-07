@@ -63,7 +63,8 @@
                         "cId": "qJTK",
                         "conditionalColoring": {
                             "paletteSingleColor": {
-                                "color": "#5ba2a5",
+                                "alpha": 1,
+                                "color": "#a56852",
                                 "index": -1
                             },
                             "segments": {
